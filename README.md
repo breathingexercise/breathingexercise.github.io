@@ -4,7 +4,7 @@ A beautiful, calming breathing exercise web application with guided inhale/exhal
 
 ## 🌐 Live Application
 
-**[https://breathingexercise.github.io](https://breathingexercise.github.io)**
+**[breathingexercise.github.io](https://breathingexercise.github.io)**
 
 ---
 
